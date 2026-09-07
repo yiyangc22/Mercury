@@ -1,5 +1,8 @@
 
 # Mercury-Redstone (v1.24, Python 3.9.13)
+
+[![DOI](https://zenodo.org/badge/923259944.svg)](https://doi.org/10.5281/zenodo.22650611)
+
 > **Important!** This version is only compatable with [NI LabVIEW 2022 Q3 (64-bits) Professional](https://www.ni.com/en/support/downloads/software-products/download.labview.html?) running on Windows 10.
 
 **Mercury-Redstone** is a software prgram for controlling a photonic-indexing sequencing (pi-seq) microscope, which is currently under development in [Luo Lab at UCLA](https://luogenomics.github.io/). The complete program has 2 parts:
