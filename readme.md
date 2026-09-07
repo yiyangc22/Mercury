@@ -9,7 +9,7 @@
 - *LabVIEW programs* - NOT in this repository, uses [NI LabVIEW 2022 Q3 (64-bits) Professional](https://www.ni.com/en/support/downloads/software-products/download.labview.html?srsltid=AfmBOoqFKqWzXdRyj8mGl-pJSyPNZdrEf62go6jATzivkT-w3GGZH7Um#570679).
 - *Python programs* - what's in this repository, uses [Python 3.9.13](https://www.python.org/downloads/release/python-3913/).
 
-You can run Python programs independently on any computer, given you have an experiment folder generated from the pi-seq microscope. Future versions of this repository may included LabVIEW programs.
+You can run Python programs independently on any computer, given you have an experiment folder generated from the pi-seq microscope. Future versions of this repository may include LabVIEW programs.
 
 ## How to use this repository
 First, use `mercury.yml` to install conda environment for this project. This version (1.24) does not currently use Cellpose (version 3.1.1.1) as included in the yml file, but future versions (1.25+) may require this version of Cellpose.
