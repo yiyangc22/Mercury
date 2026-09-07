@@ -1,0 +1,14 @@
+{
+  "title": "Mercury-Redstone: a Python package for designing single-cell combinatorial photonic-indexing barcodes",
+  "description": "Instrument-control and barcode-design software for photonic-indexing spatial sequencing. Generates combinatorial barcode schemes, plans imaging layouts, produces segmentation masks, and coordinates optofluidic procedures.",
+  "creators": [
+    {
+      "name": "Chen, Yiyang",
+      "affiliation": "University of California, Los Angeles",
+      "orcid": "0009-0000-0498-0593"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": ["spatial genomics", "combinatorial barcoding", "instrument control", "single-cell sequencing"]
+}
